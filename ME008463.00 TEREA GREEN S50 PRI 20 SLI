@@ -1,0 +1,238 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="TopPos" type="xs:long" minOccurs="0" />
+                <xs:element name="LeftPos" type="xs:long" minOccurs="0" />
+                <xs:element name="Font" type="xs:string" minOccurs="0" />
+                <xs:element name="FontSize" type="xs:long" minOccurs="0" />
+                <xs:element name="AddedHeight" type="xs:long" minOccurs="0" />
+                <xs:element name="Vertical" type="xs:long" minOccurs="0" />
+                <xs:element name="Width" type="xs:long" minOccurs="0" />
+                <xs:element name="Height" type="xs:long" minOccurs="0" />
+                <xs:element name="ImgAddress" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <Value>#prodtype#</Value>
+    <TopPos>25</TopPos>
+    <LeftPos>82</LeftPos>
+    <Font>Swiss 721 Narrow SWA</Font>
+    <FontSize>20</FontSize>
+    <Vertical>0</Vertical>
+  </Table>
+  <Table>
+    <Value>#product#</Value>
+    <TopPos>50</TopPos>
+    <LeftPos>75</LeftPos>
+    <Font>Swiss 721 Narrow SWA</Font>
+    <FontSize>33</FontSize>
+    <Width>90</Width>
+  </Table>
+  <Table>
+    <Value>#prodvar#</Value>
+    <TopPos>57</TopPos>
+    <LeftPos>200</LeftPos>
+    <Font>Swiss 721 Narrow SWA</Font>
+    <FontSize>28</FontSize>
+    <Vertical>0</Vertical>
+  </Table>
+  <Table>
+    <Value>#proddate#</Value>
+    <TopPos>413</TopPos>
+    <LeftPos>75</LeftPos>
+    <Font>Swiss 721 Narrow SWA</Font>
+    <FontSize>8</FontSize>
+  </Table>
+  <Table>
+    <Value>#prodtime#</Value>
+    <TopPos>413</TopPos>
+    <LeftPos>135</LeftPos>
+    <Font>Swiss 721 Narrow SWA</Font>
+    <FontSize>8</FontSize>
+    <Vertical>0</Vertical>
+  </Table>
+  <Table>
+    <Value>#ean128#</Value>
+    <TopPos>125</TopPos>
+    <LeftPos>190</LeftPos>
+    <Font>datamatrix</Font>
+    <FontSize>60</FontSize>
+    <Width>50</Width>
+  </Table>
+  <Table>
+    <Value>#ean128code#</Value>
+    <TopPos>330</TopPos>
+    <LeftPos>246</LeftPos>
+    <Font>Swiss 721 Narrow SWA</Font>
+    <FontSize>9</FontSize>
+    <Vertical>1</Vertical>
+    <Width>0</Width>
+  </Table>
+  <Table>
+    <Value>#ean13#</Value>
+    <TopPos>560</TopPos>
+    <LeftPos>85</LeftPos>
+    <Font>gs1-13</Font>
+    <FontSize>12</FontSize>
+    <AddedHeight>0</AddedHeight>
+    <Vertical>0</Vertical>
+    <Width>150</Width>
+    <Height>65</Height>
+  </Table>
+  <Table>
+    <Value>#machine#</Value>
+    <TopPos>413</TopPos>
+    <LeftPos>215</LeftPos>
+    <Font>Swiss 721 Narrow SWA</Font>
+    <FontSize>8</FontSize>
+  </Table>
+  <Table>
+    <Value>#factory#</Value>
+    <TopPos>413</TopPos>
+    <LeftPos>185</LeftPos>
+    <Font>Swiss 721 Narrow SWA</Font>
+    <FontSize>8</FontSize>
+  </Table>
+  <Table>
+    <Value>#odm#</Value>
+    <TopPos>120</TopPos>
+    <LeftPos>75</LeftPos>
+    <Font>Swiss 721 Narrow SWA</Font>
+    <FontSize>33</FontSize>
+  </Table>
+  <Table>
+    <Value>PROD. DATE</Value>
+    <TopPos>397</TopPos>
+    <LeftPos>75</LeftPos>
+    <Font>Swiss 721 Narrow SWA</Font>
+    <FontSize>8</FontSize>
+  </Table>
+  <Table>
+    <Value>#dm_rk5#</Value>
+    <TopPos>438</TopPos>
+    <LeftPos>80</LeftPos>
+    <Font>datamatrix</Font>
+    <FontSize>50</FontSize>
+    <Width>60</Width>
+  </Table>
+  <Table>
+    <Value>Additional Information</Value>
+    <TopPos>435</TopPos>
+    <LeftPos>143</LeftPos>
+    <Font>Swiss 721 Narrow SWA</Font>
+    <FontSize>6</FontSize>
+  </Table>
+  <Table>
+    <Value>#rk5_01#</Value>
+    <TopPos>450</TopPos>
+    <LeftPos>143</LeftPos>
+    <Font>Swiss 721 Narrow SWA</Font>
+    <FontSize>6</FontSize>
+  </Table>
+  <Table>
+    <Value>#rk5_21#</Value>
+    <TopPos>462</TopPos>
+    <LeftPos>143</LeftPos>
+    <Font>Swiss 721 Narrow SWA</Font>
+    <FontSize>6</FontSize>
+  </Table>
+  <Table>
+    <Value>#rk5_240#</Value>
+    <TopPos>474</TopPos>
+    <LeftPos>143</LeftPos>
+    <Font>Swiss 721 Narrow SWA</Font>
+    <FontSize>6</FontSize>
+  </Table>
+  <Table>
+    <Value>Kotak</Value>
+    <TopPos>432</TopPos>
+    <LeftPos>77</LeftPos>
+    <Font>Rectangle</Font>
+    <FontSize>2</FontSize>
+    <Width>165</Width>
+    <Height>72</Height>
+  </Table>
+  <Table>
+    <Value>#rk5_batch#</Value>
+    <TopPos>486</TopPos>
+    <LeftPos>143</LeftPos>
+    <Font>Swiss 721 Narrow SWA</Font>
+    <FontSize>6</FontSize>
+  </Table>
+  <Table>
+    <Value>#Page#</Value>
+    <TopPos>514</TopPos>
+    <LeftPos>92</LeftPos>
+    <Font>Swiss 721 Narrow SWA</Font>
+    <FontSize>8</FontSize>
+    <Width>365</Width>
+    <Height>650</Height>
+  </Table>
+  <Table>
+    <Value>IMG</Value>
+    <TopPos>178</TopPos>
+    <LeftPos>65</LeftPos>
+    <Font>Swiss 721 Narrow SWA</Font>
+    <FontSize>8</FontSize>
+    <Width>180</Width>
+    <Height>215</Height>
+    <ImgAddress>Label\DCL\DCL.7352-KR05-300-PZP-01.png</ImgAddress>
+  </Table>
+  <Table>
+    <Value>#ean128#</Value>
+    <TopPos>19</TopPos>
+    <LeftPos>262</LeftPos>
+    <Font>GS1-128</Font>
+    <FontSize>30</FontSize>
+    <Vertical>1</Vertical>
+    <Width>97</Width>
+    <Height>620</Height>
+  </Table>
+  <Table>
+    <TopPos>615</TopPos>
+    <LeftPos>168</LeftPos>
+    <Font>Swiss 721 Narrow SWA</Font>
+    <Width>62</Width>
+    <Height>60</Height>
+  </Table>
+  <Table>
+    <Value>#ean13_3#</Value>
+    <TopPos>616</TopPos>
+    <LeftPos>168</LeftPos>
+    <Font>Swiss 721 Narrow SWA</Font>
+    <FontSize>12</FontSize>
+  </Table>
+  <Table>
+    <TopPos>615</TopPos>
+    <LeftPos>95</LeftPos>
+    <Font>Swiss 721 Narrow SWA</Font>
+    <Width>62</Width>
+    <Height>60</Height>
+  </Table>
+  <Table>
+    <Value>#ean13_2#</Value>
+    <TopPos>616</TopPos>
+    <LeftPos>98</LeftPos>
+    <Font>Swiss 721 Narrow SWA</Font>
+    <FontSize>12</FontSize>
+  </Table>
+  <Table>
+    <Value>#ean13_1#</Value>
+    <TopPos>616</TopPos>
+    <LeftPos>70</LeftPos>
+    <Font>Swiss 721 Narrow SWA</Font>
+    <FontSize>12</FontSize>
+  </Table>
+</NewDataSet>
