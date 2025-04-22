@@ -16,7 +16,12 @@ Password : D3b!9790244b1$B
 Server: sqlprd_plsa_idkrasql01.dbiaas.sdi.pmi
 DB: SPA
 Table: dbo.tbl_OPC_Machine_Data
+Instance: sqlprd_idkraprd_taxstamp.dbaas.sdi.pmi\PRD
 
-3744841021061211799117393262193219166144147247237248230145164223
+db name: IDKRAPRD_TaxStamp
 
-https://1drv.ms/f/s!AqXbzsAO71W7hO10JqTf-PGvyumsyQ?e=eF4CYI
+account: TaxStampWriter
+
+Password: S@mpoerna234
+
+ 
