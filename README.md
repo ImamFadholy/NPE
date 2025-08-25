@@ -25,3 +25,8 @@ account: TaxStampWriter
 Password: S@mpoerna234
 
  
+SELECT TOP (1)
+
+SourcelD UTC [GoodProduction] Val FROM [SPA]. [dbo]. [tbl_OPC_Machine_Data] where SourcelD like '#id#-SE-CP-#machine#-MAKE' and utc>='#waktu#'
+
+ORDER BY UTC asc
